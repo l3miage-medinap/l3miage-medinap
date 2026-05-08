@@ -25,8 +25,10 @@ Nous avons ensuite, mis en place un système de sauvegarde des différents carac
 
  Pour réaliser notre souhait d'avoir différent Donjon nous avons crées la class Lieu permettant l'affichage de différentes textures et dialogues/actions en fonctions du "lieu visités": <img width="1670" height="691" alt="Capture d’écran 2026-05-08 155418" src="https://github.com/user-attachments/assets/ab3d55ac-a0bf-4abf-b029-312bedca5086" />
 
+Une de nos grandes difficultés fut de créer des actions dans les donjons et de faire attendre l'execution pour eviter qu'il n'execute tout à la chaine sans s'arreter <img width="1915" height="1132" alt="Capture d’écran 2026-05-08 154113" src="https://github.com/user-attachments/assets/2d294d07-ac32-41ef-8687-abd2e308967b" />
 
 
+ Il a également fallu créer le joueur comme un objet déplaçable et gérer l'affichage du texture "en plus" de la carte de départ, et différents soucis de complexité que vous pouvez découvrir, si vous le souhaitez, en en lisant le documet explicatif du repository en question !!
 
  
 
