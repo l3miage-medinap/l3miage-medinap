@@ -1,11 +1,12 @@
-# Bienvenue sur mon GitHub ! Voici une description d'une partie de mes différents projets informatiques 👋
+# Bienvenue sur mon GitHub !
+Voici une description d'une partie de mes différents projets informatiques 👋
 
 ## 🚀 Mes Projets Phares
 
 ### 🎮 Projet Jeu & Sérialisation XML
 ![Image du projet](Lien_vers_ton_image.png)
 *Description courte : Développement d'un moteur de jeu avec un système de sauvegarde complexe via la sérialisation et désérialisation de fichiers XML.*
-> **Lien vers le repo :** [Voir le code ici](https://github.com/ton-pseudo/nom-du-repo-jeu)
+> **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Jeu_Csharp_Xml)
 
 ---
 
@@ -19,18 +20,18 @@
 ### 🗄️ Projet Base de Données SQL
 ![Image du projet](Lien_vers_ton_image.png)
 *Description courte : Conception complète d'une architecture de données, incluant la migration, la création de tables optimisées et la mise en place de vues complexes.*
-> **Lien vers le repo :** [Voir le code ici](https://github.com/ton-pseudo/nom-du-repo-sql)
+> **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Projet_Base_Donn-es_SQL)
 
 ---
 
 ### 🧮 Projet "Calculatrice" intelligente par Arbre d'Analyse Syntaxique
 ![Image du projet](Lien_vers_ton_image.png)
 *Description courte : Implémentation d'un parseur capable de résoudre des expressions mathématiques complexes en utilisant des structures d'arbres syntaxiques.*
-> **Lien vers le repo :** [Voir le code ici](https://github.com/ton-pseudo/nom-du-repo-calc)
+> **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/ProjetC_CalculatriceParAnalyseSyntaxique)
 
 ---
 
 ### 🚚 Projet Optimisation de Tournées
 ![Image du projet](Lien_vers_ton_image.png)
-*Description courte : Résolution de problèmes logistiques via des algorithmes d'optimisation, couplés à une interface utilisateur et une base de données dédiée.*
+*Description courte : Résolution de problèmes logistiques via des algorithmes d'optimisation, couplés à une interface utilisateur et une base de données dédiée ainsi que son backend.*
 > **Lien vers le repo :** [Voir le code ici](https://github.com/ton-pseudo/nom-du-repo-tournees)
