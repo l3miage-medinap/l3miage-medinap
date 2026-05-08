@@ -7,7 +7,16 @@ Voici une description d'une partie de mes différents projets informatiques 👋
 *Description courte : Développement d'un moteur de jeu avec un système de sauvegarde complexe via la sérialisation et désérialisation de fichiers XML.*
 > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Jeu_Csharp_Xml)
 <details>
+  Pour ce projet nous devions concevoir un jeu en C#, utilisant les différentes méthodes de récupération et écriture XML (Xsd, Xslt, Serialisation, ParserDOM, etc...)
+
+  Pour le jeu nous avons choisi de le développer sur JetBrains à l'aide d'un module de gestion texture Monogame (https://monogame.net/) également utilisé pour de nombreux jeux de pixel art ! 
+
+  Nous avons donc fait le choix de concevoir un jeu de Donjon le joueur évoluant sur une carte et ayant la possibilité d'entrer dans différents portails, par exemple dans le manoir d'un sorcier (décidement fin connaisseur du XML):
 <img width="1907" height="1145" alt="Capture d’écran 2026-05-08 154217" src="https://github.com/user-attachments/assets/697c610b-199c-4857-b6be-dfe1fe19b3f1" />
+
+La première difficulté résidait en la gestion des différentes textures:
+<img width="1162" height="537" alt="Capture d’écran 2026-05-08 154514" src="https://github.com/user-attachments/assets/fc90ef4f-b178-4f64-bb54-ccc40800f67e" />
+
 </details>
 
 
