@@ -83,7 +83,21 @@ Une de nos grandes difficultés fut de créer des actions dans les donjons et de
 > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/ProjetC_CalculatriceParAnalyseSyntaxique)
 
 <details>
-  Ce projet 
+  Pour ce projet, nous devions concevoir une calculatrice intelligente capable de stocker et lire des variables ! 
+  Exemple du rendu final: <img width="1811" height="1107" alt="Capture d’écran 2026-05-08 164958" src="https://github.com/user-attachments/assets/ad6e2635-7aa5-41b7-87d8-7499614a1b7f" />
+
+
+  Pour cela nous avons mis en place de nombreux états pour effectuer un tri et "comprendre" ce que nous étions en train de traiter (analyse lexical). Ainsi qu'un arbre constituant l'expression reçu dans le but de découper celle-ci pour éviter d'accepter "1+-/2" (analyse syntaxique). 
+
+  analyse lexical: <img width="1877" height="1062" alt="Capture d’écran 2026-05-08 165616" src="https://github.com/user-attachments/assets/9b8c703a-2115-4a27-bfc8-cc51374517a0" />
+  analyse syntaxique: <img width="1917" height="1022" alt="Capture d’écran 2026-05-08 165505" src="https://github.com/user-attachments/assets/2ef93917-7c8c-43e4-9043-ff1787fe710c" />
+
+  Exemple d'une equation traitant les opérateurs arithmétiques: 
+
+
+
+  
+
 </details>
 ---
 
