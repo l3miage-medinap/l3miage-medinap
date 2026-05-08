@@ -4,9 +4,12 @@ Voici une description d'une partie de mes différents projets informatiques 👋
 ## 🚀 Mes Projets Phares
 
 ### 🎮 Projet Jeu & Sérialisation XML
-<img width="1907" height="1145" alt="Capture d’écran 2026-05-08 154217" src="https://github.com/user-attachments/assets/697c610b-199c-4857-b6be-dfe1fe19b3f1" />
 *Description courte : Développement d'un moteur de jeu avec un système de sauvegarde complexe via la sérialisation et désérialisation de fichiers XML.*
 > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Jeu_Csharp_Xml)
+<details>
+<img width="1907" height="1145" alt="Capture d’écran 2026-05-08 154217" src="https://github.com/user-attachments/assets/697c610b-199c-4857-b6be-dfe1fe19b3f1" />
+</details>
+
 
 ---
 
