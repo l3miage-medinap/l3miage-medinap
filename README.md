@@ -6,7 +6,7 @@ Voici une description d'une partie de mes différents projets informatiques 👋
 ### 🎮 Projet Jeu & Sérialisation XML
 *Description courte : Développement d'un moteur de jeu avec un système de sauvegarde complexe via la sérialisation et désérialisation de fichiers XML.*
 > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Jeu_Csharp_Xml)
->Cliquez ci dessous pour quelques détails et images du projet 
+> Cliquez ci dessous pour quelques détails et images du projet 
  <details>
   Pour ce projet nous devions concevoir un jeu en C#, utilisant les différentes méthodes de récupération et écriture XML (Xsd, Xslt, Serialisation, ParserDOM, etc...)
 
@@ -85,7 +85,7 @@ Une de nos grandes difficultés fut de créer des actions dans les donjons et de
 *Description courte : Implémentation d'un parseur capable de résoudre des expressions mathématiques complexes en utilisant des structures d'arbres syntaxiques.*
 > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/ProjetC_CalculatriceParAnalyseSyntaxique)
 > Cliquez ci dessous pour quelques détails et images du projet 
-> Cliquez ci dessous pour quelques détails et images du projet 
+
 
 <details>
   Pour ce projet, nous devions concevoir une calculatrice intelligente capable de stocker et lire des variables ! 
@@ -94,12 +94,15 @@ Une de nos grandes difficultés fut de créer des actions dans les donjons et de
 
   Pour cela nous avons mis en place de nombreux états pour effectuer un tri et "comprendre" ce que nous étions en train de traiter (analyse lexical). Ainsi qu'un arbre constituant l'expression reçu dans le but de découper celle-ci pour éviter d'accepter "1+-/2" (analyse syntaxique). 
 
-  analyse lexical: <img width="1877" height="1062" alt="Capture d’écran 2026-05-08 165616" src="https://github.com/user-attachments/assets/9b8c703a-2115-4a27-bfc8-cc51374517a0" />
-  analyse syntaxique: <img width="1917" height="1022" alt="Capture d’écran 2026-05-08 165505" src="https://github.com/user-attachments/assets/2ef93917-7c8c-43e4-9043-ff1787fe710c" />
+  Fichier pour l'analyse lexical: <img width="1877" height="1062" alt="Capture d’écran 2026-05-08 165616" src="https://github.com/user-attachments/assets/9b8c703a-2115-4a27-bfc8-cc51374517a0" />
+  Fichier pour l'analyse syntaxique: <img width="1917" height="1022" alt="Capture d’écran 2026-05-08 165505" src="https://github.com/user-attachments/assets/2ef93917-7c8c-43e4-9043-ff1787fe710c" />
 
-  Exemple d'une equation traitant les opérateurs arithmétiques: 
+  Exemple d'une équation traitant les opérateurs arithmétiques basiques: <img width="1906" height="1122" alt="Capture d’écran 2026-05-08 165044" src="https://github.com/user-attachments/assets/f697e968-6429-416c-a777-9c24f97c11fa" />
+
+ Exemple avec ecriture, lecture de variable ainsi que if/else: <img width="1712" height="1110" alt="Capture d’écran 2026-05-08 164901" src="https://github.com/user-attachments/assets/037d021a-adf0-4e6c-8726-2e031d41f2f0" />
 
 
+N'Hesitez pas à consulter, si vous le souhaitez, le repository associé !
 
   
 
