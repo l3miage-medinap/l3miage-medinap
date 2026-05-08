@@ -7,7 +7,7 @@ Voici une description d'une partie de mes différents projets informatiques 👋
 *Description courte : Développement d'un moteur de jeu avec un système de sauvegarde complexe via la sérialisation et désérialisation de fichiers XML.*
 > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Jeu_Csharp_Xml)
 -> -> -> ->
->  <details>
+ <details>
   Pour ce projet nous devions concevoir un jeu en C#, utilisant les différentes méthodes de récupération et écriture XML (Xsd, Xslt, Serialisation, ParserDOM, etc...)
 
   Nous avons choisi de le développer sur JetBrains à l'aide d'un module de gestion texture Monogame (https://monogame.net/) également utilisé pour de nombreux jeux de pixel art ! Interface final obtenu:
