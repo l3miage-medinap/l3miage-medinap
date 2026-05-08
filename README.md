@@ -41,6 +41,22 @@ Une de nos grandes difficultés fut de créer des actions dans les donjons et de
 *Description courte : Traitement de jeux de données massifs et génération de visualisations graphiques pour extraire des tendances significatives.*
 > **Lien vers le repo :** [Voir le code ici](https://github.com/ton-pseudo/nom-du-repo-data)
 <details>
+  Pour ce projet, j'ai eu à gerer de gigantesque flux de données (43000 données) en format CSV, à l'aide du logiciel R-Studio et du langage R associé.
+  <img width="1912" height="1151" alt="Capture d’écran 2026-05-08 170002" src="https://github.com/user-attachments/assets/7ce76f5f-668a-4461-80da-6d99668de953" />
+
+  Celui-ci consistait à analyser et faire un compte-rendu en fonction d'immense jeux de données sur le baccalauréat, notre problématique était: Le statut du candidat (localité, parcours, statut, sexe) influence-t-il sa réussite au baccalauréat ?
+
+  J'ai par exemple réalisé un audit des résulats au bac général en fonction de l'académie, voici un graphiques pour les 15 premières académies: <img width="1547" height="925" alt="Capture d’écran 2026-05-08 170105" src="https://github.com/user-attachments/assets/49be1e55-edb8-47a8-8f6f-8382bae2fd7f" />
+
+  Ou encore pour la totalité des trentres académies national: <img width="1885" height="1127" alt="Capture d’écran 2026-05-08 170307" src="https://github.com/user-attachments/assets/4d4b4fc5-7a9c-448d-898a-4044822b3ff1" />
+  Un résultat que j'ai pu obtenir à l'aide du code ci dessous utilisant les deux librairies tidyverse et ggplot: <img width="1512" height="747" alt="Capture d’écran 2026-05-08 170128" src="https://github.com/user-attachments/assets/c1268e9c-9063-4355-ba85-dd2206172984" /> Ce qui donne la représentation graphique suivante: <img width="1801" height="1112" alt="Capture d’écran 2026-05-08 170227" src="https://github.com/user-attachments/assets/e77c5671-ab4f-4038-afe1-f0913fb1fe93" />
+
+  J'ai également pu tracer des graphiques se concentrant sur quelques académies: code: <img width="1917" height="892" alt="Capture d’écran 2026-05-08 170458" src="https://github.com/user-attachments/assets/ac8a4553-1bb7-477e-8008-06437c3b9d94" /> graphes associés:
+<img width="1917" height="1147" alt="Capture d’écran 2026-05-08 170439" src="https://github.com/user-attachments/assets/62e93222-244f-45bc-aee9-4e042e3e4957" />
+
+
+
+
 </details>
 
 ---
@@ -50,9 +66,9 @@ Une de nos grandes difficultés fut de créer des actions dans les donjons et de
 > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Projet_Base_Donn-es_SQL)
 
 <details>
-  Lors de ce projet j'ai eu à récupérer une base de données incomplète et incohérente.
+  Lors de ce projet j'ai eu à récupérer une base de données incomplète et incohérente. J'ai pour cela utiliser DB Browser (SQLite) qui est une application de gestion de base de données et de requetes SQL. 
 
-  Refaire la conception initial en repensant les logiques métiers et les besoins des utilisateurs de la base. Notamment en redéfinissant ce qui est admissible comme format dans la base (domaine) ainsi que les différentes contraintes: <img width="1917" height="925" alt="Capture d’écran 2026-05-08 162224" src="https://github.com/user-attachments/assets/9c748729-e189-4605-a7ed-809774b877a8" />
+  Pour commencer, j'ai du refaire la conception initial de ma base en repensant les logiques métiers et les besoins des utilisateurs. Notamment en redéfinissant ce qui est admissible comme format dans la base (domaine) ainsi que les différentes contraintes: <img width="1917" height="925" alt="Capture d’écran 2026-05-08 162224" src="https://github.com/user-attachments/assets/9c748729-e189-4605-a7ed-809774b877a8" />
 
   Ensuite, une fois les contraintes comprises j'ai creer une nouvelle base, destinée à accueillir ces données de façon cohérentes: <img width="1917" height="1100" alt="Capture d’écran 2026-05-08 163526" src="https://github.com/user-attachments/assets/43b1e6dd-edf7-4465-a542-530054c58bd3" />
 
@@ -74,7 +90,7 @@ Une de nos grandes difficultés fut de créer des actions dans les donjons et de
 
 ### 🚚 Projet Optimisation de Tournées
 *Description courte : Résolution de problèmes logistiques via des algorithmes d'optimisation, couplés à une interface utilisateur et une base de données dédiée ainsi que son backend.*
-> **Lien vers le repo :** Pas encore de Repository, pour ce projet 
+> **Lien vers le repo :** Pas encore de Repository, pour ce projet (encore en cours)
 
 <details>
 </details>
