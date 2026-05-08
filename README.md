@@ -1,16 +1,16 @@
-## Hi there 👋
+# Bienvenue dans mon Github voici une description d'une petite partie de mes différents projets informatique 👋
 
-<!--
-**l3miage-medinap/l3miage-medinap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Mes Projets Phares
 
-Here are some ideas to get you started:
+### 🎮 Projet Jeu & Sérialisation XML
+![Image du projet](Lien_vers_ton_image.png)
+*Description courte : Un système de sauvegarde de jeu complexe utilisant le format XML.*
+> **Lien vers le repo :** [Voir le code ici](https://github.com/ton-pseudo/nom-du-repo-jeu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  Projet Analyse de Data et graphe statistique 
+![Image du projet](Lien_vers_ton_image.png)
+*Description courte : Un système de sauvegarde de jeu complexe utilisant le format XML.*
+> **Lien vers le repo :** [Voir le code ici](https://github.com/ton-pseudo/nom-du-repo-jeu)
+
