@@ -9,7 +9,7 @@ Voici une description d'une partie de mes différents projets informatiques 👋
 <details>
   Pour ce projet nous devions concevoir un jeu en C#, utilisant les différentes méthodes de récupération et écriture XML (Xsd, Xslt, Serialisation, ParserDOM, etc...)
 
-  Nous avons choisi de le développer sur JetBrains à l'aide d'un module de gestion texture Monogame (https://monogame.net/) également utilisé pour de nombreux jeux de pixel art ! Premier rendu:
+  Nous avons choisi de le développer sur JetBrains à l'aide d'un module de gestion texture Monogame (https://monogame.net/) également utilisé pour de nombreux jeux de pixel art ! Interface final obtenu:
 <img width="1916" height="1132" alt="Capture d’écran 2026-05-08 194709" src="https://github.com/user-attachments/assets/80683da6-f2fe-4ebe-8309-cfbd6620dde9" />
 
   Nous avons donc fait le choix de concevoir un jeu de Donjon le joueur évoluant sur une carte et ayant la possibilité d'entrer dans différents portails, par exemple dans le manoir d'un sorcier (décidement fin connaisseur du XML):
