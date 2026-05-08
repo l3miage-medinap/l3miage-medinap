@@ -6,7 +6,7 @@ Voici une description d'une partie de mes différents projets informatiques 👋
 ### 🎮 Projet Jeu & Sérialisation XML
 *Description courte : Développement d'un moteur de jeu avec un système de sauvegarde complexe via la sérialisation et désérialisation de fichiers XML.*
 > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Jeu_Csharp_Xml)
--> -> -> ->
+>Cliquez ci dessous pour quelques détails et images du projet 
  <details>
   Pour ce projet nous devions concevoir un jeu en C#, utilisant les différentes méthodes de récupération et écriture XML (Xsd, Xslt, Serialisation, ParserDOM, etc...)
 
@@ -41,6 +41,7 @@ Une de nos grandes difficultés fut de créer des actions dans les donjons et de
 ### 📊 Projet Analyse de Data et Graphes Statistiques
 *Description courte : Traitement de jeux de données massifs et génération de visualisations graphiques pour extraire des tendances significatives.*
 > **Lien vers le repo :** [Voir le code ici](https://github.com/ton-pseudo/nom-du-repo-data)
+> Cliquez ci dessous pour quelques détails et images du projet 
 <details>
   Pour ce projet, j'ai eu à gerer de gigantesque flux de données (43000 données) en format CSV, à l'aide du logiciel R-Studio et du langage R associé.
   <img width="1912" height="1151" alt="Capture d’écran 2026-05-08 170002" src="https://github.com/user-attachments/assets/7ce76f5f-668a-4461-80da-6d99668de953" />
@@ -63,6 +64,7 @@ Une de nos grandes difficultés fut de créer des actions dans les donjons et de
 ### 🗄️ Projet Base de Données SQL
 *Description courte : Conception complète d'une architecture de données, incluant la migration, la création de tables optimisées et la mise en place de vues complexes.*
 > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Projet_Base_Donn-es_SQL)
+> Cliquez ci dessous pour quelques détails et images du projet 
 
 <details>
   Lors de ce projet j'ai eu à récupérer une base de données incomplète et incohérente. J'ai pour cela utiliser DB Browser (SQLite) qui est une application de gestion de base de données et de requetes SQL. 
@@ -82,6 +84,8 @@ Une de nos grandes difficultés fut de créer des actions dans les donjons et de
 ![Image du projet](Lien_vers_ton_image.png)
 *Description courte : Implémentation d'un parseur capable de résoudre des expressions mathématiques complexes en utilisant des structures d'arbres syntaxiques.*
 > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/ProjetC_CalculatriceParAnalyseSyntaxique)
+> Cliquez ci dessous pour quelques détails et images du projet 
+> Cliquez ci dessous pour quelques détails et images du projet 
 
 <details>
   Pour ce projet, nous devions concevoir une calculatrice intelligente capable de stocker et lire des variables ! 
@@ -105,6 +109,7 @@ Une de nos grandes difficultés fut de créer des actions dans les donjons et de
 ### 🚚 Projet Optimisation de Tournées
 *Description courte : Résolution de problèmes logistiques via des algorithmes d'optimisation, couplés à une interface utilisateur et une base de données dédiée ainsi que son backend.*
 > **Lien vers le repo :** Pas encore de Repository, pour ce projet (encore en cours)
+> Cliquez ci dessous pour quelques détails et images du projet 
 
 <details>
   Pour très bientot...
