@@ -83,6 +83,7 @@ Une de nos grandes difficultés fut de créer des actions dans les donjons et de
 > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/ProjetC_CalculatriceParAnalyseSyntaxique)
 
 <details>
+  Ce projet 
 </details>
 ---
 
@@ -91,4 +92,5 @@ Une de nos grandes difficultés fut de créer des actions dans les donjons et de
 > **Lien vers le repo :** Pas encore de Repository, pour ce projet (encore en cours)
 
 <details>
+  Pour très bientot...
 </details>
