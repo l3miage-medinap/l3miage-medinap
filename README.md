@@ -17,6 +17,18 @@ Voici une description d'une partie de mes différents projets informatiques 👋
 La première difficulté résidait en la gestion des différentes textures:
 <img width="1162" height="537" alt="Capture d’écran 2026-05-08 154514" src="https://github.com/user-attachments/assets/fc90ef4f-b178-4f64-bb54-ccc40800f67e" />
 
+Ensuite, nous avons pendant ce projet mis en place un système de sauvegarde des différents caractéristiques du joueur: appelle de la fonction C# visibile ci-dessus après le texte "charger données". 
+
+ Dont voici une petite partie de la class: <img width="1532" height="767" alt="Capture d’écran 2026-05-08 160418" src="https://github.com/user-attachments/assets/fa9f2294-36cb-4085-aeca-038c5e4a6b63" />
+ Et le Xml associé: <img width="1425" height="682" alt="Capture d’écran 2026-05-08 160450" src="https://github.com/user-attachments/assets/6989163e-6c41-42b4-9dae-452fb7534ece" />
+
+ Pour réaliser notre souhait d'avoir différent Donjon nous avons crées la class Lieu permettant l'affichage de différentes textures et dialogues/actions en fonctions du "lieu visités": <img width="1670" height="691" alt="Capture d’écran 2026-05-08 155418" src="https://github.com/user-attachments/assets/ab3d55ac-a0bf-4abf-b029-312bedca5086" />
+
+
+
+
+ 
+
 </details>
 
 
