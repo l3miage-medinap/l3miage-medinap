@@ -46,9 +46,7 @@ Une de nos grandes difficultés fut de créer des actions dans les donjons et de
 
   Celui-ci consistait à analyser et faire un compte-rendu en fonction d'immense jeux de données sur le baccalauréat, notre problématique était: Le statut du candidat (localité, parcours, statut, sexe) influence-t-il sa réussite au baccalauréat ?
 
-  J'ai par exemple réalisé un audit des résulats au bac général en fonction de l'académie, voici un graphiques pour les 15 premières académies: <img width="1547" height="925" alt="Capture d’écran 2026-05-08 170105" src="https://github.com/user-attachments/assets/49be1e55-edb8-47a8-8f6f-8382bae2fd7f" />
-
-  Ou encore pour la totalité des trentres académies national: <img width="1885" height="1127" alt="Capture d’écran 2026-05-08 170307" src="https://github.com/user-attachments/assets/4d4b4fc5-7a9c-448d-898a-4044822b3ff1" />
+  J'ai par exemple réalisé un audit des résulats au bac général en fonction de l'académie, pour la totalité des trentres académies national: <img width="1885" height="1127" alt="Capture d’écran 2026-05-08 170307" src="https://github.com/user-attachments/assets/4d4b4fc5-7a9c-448d-898a-4044822b3ff1" />
   Un résultat que j'ai pu obtenir à l'aide du code ci dessous utilisant les deux librairies tidyverse et ggplot: <img width="1512" height="747" alt="Capture d’écran 2026-05-08 170128" src="https://github.com/user-attachments/assets/c1268e9c-9063-4355-ba85-dd2206172984" /> Ce qui donne la représentation graphique suivante: <img width="1801" height="1112" alt="Capture d’écran 2026-05-08 170227" src="https://github.com/user-attachments/assets/e77c5671-ab4f-4038-afe1-f0913fb1fe93" />
 
   J'ai également pu tracer des graphiques se concentrant sur quelques académies: code: <img width="1917" height="892" alt="Capture d’écran 2026-05-08 170458" src="https://github.com/user-attachments/assets/ac8a4553-1bb7-477e-8008-06437c3b9d94" /> graphes associés:
