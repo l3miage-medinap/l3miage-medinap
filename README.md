@@ -7,7 +7,8 @@ Voici une description d'une partie de mes différents projets informatiques 👋
 ### 🎮 Projet Jeu & Sérialisation XML
 *Description courte : Développement d'un moteur de jeu avec un système de sauvegarde complexe via la sérialisation et la désérialisation de fichiers XML.*
 > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Jeu_Csharp_Xml)
-**Cliquez ci-dessous pour quelques détails et images du projet**
+> 
+** -> -> -> Cliquez ci-dessous pour quelques détails et images du projet <- <- <-**
 <details>
   Pour ce projet, nous devions concevoir un jeu en C#, utilisant les différentes méthodes de récupération et d'écriture XML (XSD, XSLT, sérialisation, Parser DOM, etc.).
 
