@@ -50,6 +50,16 @@ Une de nos grandes difficultés fut de créer des actions dans les donjons et de
 > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Projet_Base_Donn-es_SQL)
 
 <details>
+  Lors de ce projet j'ai eu à récupérer une base de données incomplète et incohérente.
+
+  Refaire la conception initial en repensant les logiques métiers et les besoins des utilisateurs de la base. Notamment en redéfinissant ce qui est admissible comme format dans la base (domaine) ainsi que les différentes contraintes: <img width="1917" height="925" alt="Capture d’écran 2026-05-08 162224" src="https://github.com/user-attachments/assets/9c748729-e189-4605-a7ed-809774b877a8" />
+
+  Ensuite, une fois les contraintes comprises j'ai creer une nouvelle base, destinée à accueillir ces données de façon cohérentes: <img width="1917" height="1100" alt="Capture d’écran 2026-05-08 163526" src="https://github.com/user-attachments/assets/43b1e6dd-edf7-4465-a542-530054c58bd3" />
+
+  Après avoir récupéré les données à l'aide de différents insert, renommage de tables. J'ai achevé la création de la table et mise en place mes différentes Views (demandé par le client): <img width="1895" height="1011" alt="Capture d’écran 2026-05-08 163504" src="https://github.com/user-attachments/assets/670fdd79-4093-4f5b-b780-373a469accbf" />
+
+
+
 </details>
 ---
 
