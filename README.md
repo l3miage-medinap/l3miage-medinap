@@ -102,12 +102,3 @@ Il a également fallu créer le joueur comme un objet déplaçable et gérer l'a
 
 ---
 
-### 🚚 Projet Optimisation de Tournées
-*Description courte : Résolution de problèmes logistiques via des algorithmes d'optimisation, couplés à une interface utilisateur et une base de données dédiée ainsi que son backend.*
-> **Lien vers le repo :** Pas encore de repository pour ce projet (encore en cours)
->
--> -> -> Cliquez ci-dessous pour quelques détails et images du projet <- <- <-
-
-<details>
-  Pour très bientôt...
-</details>
