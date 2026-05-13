@@ -101,6 +101,7 @@ Il a également fallu créer le joueur comme un objet déplaçable et gérer l'a
 
 ---
  ### 🐍 Solveur et Créateur de Labyrinthe Python 
+ *Description courte : Création d'une interface graphique Turtle dédiée à la génération et à la résolution de labyrinthes via des algorithmes d'exploration autonome.*
 > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Solveur_Createur_Labyrinthe_Python)
 > 
 -> -> -> Cliquez ci-dessous pour quelques détails et images du projet <- <- <-
