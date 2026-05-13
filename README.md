@@ -101,7 +101,8 @@ Il a également fallu créer le joueur comme un objet déplaçable et gérer l'a
 
 ---
  ### 🐍 Solveur et Créateur de Labyrinthe Python 
- > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Solveur_Createur_Labyrinthe_Python)
+> **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Solveur_Createur_Labyrinthe_Python)
+> 
 -> -> -> Cliquez ci-dessous pour quelques détails et images du projet <- <- <-
 
 <details>
