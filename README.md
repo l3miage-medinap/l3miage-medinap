@@ -100,7 +100,7 @@ Il a également fallu créer le joueur comme un objet déplaçable et gérer l'a
 </details>
 
 ---
- ### 🐍 Le Fil d'Ariane : Solveur de Labyrinthe Python 
+ ### 🐍 Solveur et Créateur de Labyrinthe Python 
 -> -> -> Cliquez ci-dessous pour quelques détails et images du projet <- <- <-
 
 <details>
