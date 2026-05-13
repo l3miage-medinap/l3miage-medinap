@@ -101,9 +101,30 @@ Il a également fallu créer le joueur comme un objet déplaçable et gérer l'a
 
 ---
  ### 🐍 Solveur et Créateur de Labyrinthe Python 
+ > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Solveur_Createur_Labyrinthe_Python)
 -> -> -> Cliquez ci-dessous pour quelques détails et images du projet <- <- <-
 
 <details>
-Pour ce projet le but 
+Pour ce projet, nous devions tout d'abord concevoir une petite interface graphique Turtle capable de reconnaître puis de dessiner un labyrinthe à l'aide de la librairie Turtle.
+
+  Si vous souhaitez le lancer, je vous invite à installer un petit IDE (ici, nous avions utilisé IDLE), puis à ouvrir le fichier étiqueté "[Fichier Principal]". <img width="1905" height="1112" alt="1" src="https://github.com/user-attachments/assets/c48654ce-0dc4-4271-b8af-e048f27825c9" />
+
+  Une fois le labyrinthe choisi (exemple : laby2.laby), vous avez différents choix d'exploration de celui-ci, que nous avons établis par différentes stratégies.
+
+  On a par exemple : l'exploration à l'aveugle (qui fonctionne en longeant le mur à gauche de la flèche, en créant de faux murs une fois qu'on considère une zone explorée pour éviter d'y revenir). <img width="1911" height="1097" alt="2" src="https://github.com/user-attachments/assets/49b04daa-d449-4047-9860-21eb334c3222" />
+
+  On peut également effectuer une course de tortues, toutes deux effectuant une stratégie à l'aveugle, mais l'une démarrant du départ et l'autre de l'arrivée : <img width="1916" height="1102" alt="4" src="https://github.com/user-attachments/assets/debef522-b188-496b-89b2-eff53335ac97" />
+
+  Notre projet contient également un mode "manuel" pour pouvoir diriger soi-même la flèche, ainsi qu'un mode "plus court chemin" qui offre une résolution de n'importe quel dédale.
+
+  Il est également possible de créer son propre labyrinthe ! À l'aide du fichier CreationDeLabyrinthe.py, dont voici l'affichage du résultat : <img width="1917" height="1125" alt="8-1" src="https://github.com/user-attachments/assets/4cdb577f-01ba-4c7f-92c5-b731f83f8e4a" />
+
+  <img width="1917" height="1112" alt="6" src="https://github.com/user-attachments/assets/818b41e9-0ab7-46b8-a950-5421449b70f5" />
+
+  
+
+
+
+
 
 </details>
