@@ -4,7 +4,7 @@ Voici une description d'une partie de mes différents projets informatiques 👋
 
 ## 🚀 Mes Projets Phares
 
-### 🎮 Projet Jeu & Sérialisation XML
+### 🎮 Projet Jeu C# & Sérialisation XML
 *Description courte : Développement d'un moteur de jeu avec un système de sauvegarde complexe via la sérialisation et la désérialisation de fichiers XML.*
 > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Jeu_Csharp_Xml)
 > 
@@ -76,8 +76,7 @@ Il a également fallu créer le joueur comme un objet déplaçable et gérer l'a
 
 ---
 
-### 🧮 Projet "Calculatrice" intelligente par Arbre d'Analyse Syntaxique
-![Image du projet](Lien_vers_ton_image.png)
+### 🧮 Projet "Calculatrice" intelligente par Arbre d'Analyse Syntaxique en C
 *Description courte : Implémentation d'un parseur capable de résoudre des expressions mathématiques complexes en utilisant des structures d'arbres syntaxiques.*
 > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/ProjetC_CalculatriceParAnalyseSyntaxique)
 >
@@ -101,4 +100,10 @@ Il a également fallu créer le joueur comme un objet déplaçable et gérer l'a
 </details>
 
 ---
+ ### 🐍 Projet Labyrinthe et Solution en Python 
+-> -> -> Cliquez ci-dessous pour quelques détails et images du projet <- <- <-
 
+<details>
+
+
+</details>
