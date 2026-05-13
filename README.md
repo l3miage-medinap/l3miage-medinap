@@ -2,7 +2,7 @@
 
 Voici une description d'une partie de mes différents projets informatiques 🎇
 
-## 🔥 Mes Projets Phares
+## 🚀 Mes Projets Phares
 
 ### 🎮 Projet Jeu C# & Sérialisation XML
 *Description courte : Développement d'un moteur de jeu avec un système de sauvegarde complexe via la sérialisation et la désérialisation de fichiers XML.*
