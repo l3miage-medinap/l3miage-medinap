@@ -56,7 +56,7 @@ Il a également fallu créer le joueur comme un objet déplaçable et gérer l'a
 
 </details>
 
-
+---
 ### 🗄️ Projet Base de Données SQL
 *Description courte : Conception complète d'une architecture de données, incluant la migration, la création de tables optimisées et la mise en place de vues complexes.*
 > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Projet_Base_Donn-es_SQL)
