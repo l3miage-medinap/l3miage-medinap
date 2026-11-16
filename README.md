@@ -4,8 +4,6 @@ Voici une description d'une partie de mes différents projets informatiques 🎇
 
 ## 🚀 Mes Projets Phares
 
----
-
 ### 📊 Projet Analyse de Data et Graphes Statistiques
 *Description courte : Traitement de jeux de données massifs et génération de visualisations graphiques pour extraire des tendances significatives.*
 > **Lien vers le repo :** Pour Très bientot...
