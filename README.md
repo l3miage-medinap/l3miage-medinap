@@ -4,23 +4,13 @@ Voici une description d'une partie de mes différents projets informatiques 🎇
 
 ## 🚀 Mes Projets Phares
 
-### 📊 Projet Analyse de Data et Graphes Statistiques
-*Description courte : Traitement de jeux de données massifs et génération de visualisations graphiques pour extraire des tendances significatives.*
+### 📊 Projet Data : Analyse Exploratoire et Segmentation des Communes (ACP)
+*Description courte : Analyse de données (EDA & ACP) avec R : utilisation de l'analyse en composante principale pour établir des corrélations entre des variables dans un grand jeux de données*
 > **Lien vers le repo :** Pour Très bientot...
 >
 -> -> -> Cliquez ci-dessous pour quelques détails et images du projet <- <- <-
 
 <details>
-  Pour ce projet, j'ai eu à gérer de gigantesques flux de données (43 000 données) au format CSV, à l'aide du logiciel RStudio et du langage R associé.
-  <img width="1912" height="1151" alt="Capture d’écran 2026-05-08 170002" src="https://github.com/user-attachments/assets/7ce76f5f-668a-4461-80da-6d99668de953" />
-
-  Celui-ci consistait à analyser et faire un compte-rendu en fonction d'immenses jeux de données sur le baccalauréat. Notre problématique était : Le statut du candidat (localité, parcours, statut, sexe) influence-t-il sa réussite au baccalauréat ?
-
-  J'ai par exemple réalisé un audit des résultats au bac général en fonction de l'académie, pour la totalité des trente académies nationales : <img width="1885" height="1127" alt="Capture d’écran 2026-05-08 170307" src="https://github.com/user-attachments/assets/4d4b4fc5-7a9c-448d-898a-4044822b3ff1" />
-  Un résultat que j'ai pu obtenir à l'aide du code ci-dessous utilisant les deux librairies tidyverse et ggplot2 : <img width="1512" height="747" alt="Capture d’écran 2026-05-08 170128" src="https://github.com/user-attachments/assets/c1268e9c-9063-4355-ba85-dd2206172984" /> Ce qui donne la représentation graphique suivante : <img width="1801" height="1112" alt="Capture d’écran 2026-05-08 170227" src="https://github.com/user-attachments/assets/e77c5671-ab4f-4038-afe1-f0913fb1fe93" />
-
-  J'ai également pu tracer des graphiques se concentrant sur quelques académies : graphe : <img width="1917" height="892" alt="Capture d’écran 2026-05-08 170458" src="https://github.com/user-attachments/assets/ac8a4553-1bb7-477e-8008-06437c3b9d94" /> code associé :
-<img width="1917" height="1147" alt="Capture d’écran 2026-05-08 170439" src="https://github.com/user-attachments/assets/62e93222-244f-45bc-aee9-4e042e3e4957" />
 
 </details>
 
