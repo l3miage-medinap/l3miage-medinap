@@ -4,7 +4,7 @@ Voici une description d'une partie de mes différents projets informatiques 🎇
 
 ## 🚀 Mes Projets Phares
 
-### 📊 Projet Data : Analyse Exploratoire et Segmentation des Communes (ACP)
+### 📊 Projet Data : Analyse Exploratoire et Segmentation des Communes (ACP) (2026)
 *Description courte : Analyse de données (EDA & ACP) avec R : utilisation de l'analyse en composante principale pour établir des corrélations entre des variables dans un grand jeux de données*
 > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Analyse_Data_ACP_Rstudio)
 >
@@ -30,7 +30,7 @@ Nous avons également réalisés beaucoup d'autres analyses complémentaires (no
 
 ---
 
-### 🎮 Projet Jeu C# & Sérialisation XML
+### 🎮 Projet Jeu C# & Sérialisation XML (2025)
 *Description courte : Développement d'un moteur de jeu avec un système de sauvegarde complexe via la sérialisation et la désérialisation de fichiers XML.*
 > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Jeu_Csharp_Xml)
 > 
@@ -61,7 +61,7 @@ Il a également fallu créer le joueur comme un objet déplaçable et gérer l'a
 </details>
 
 ---
-### 🗄️ Projet Base de Données SQL
+### 🗄️ Projet Base de Données SQL (2025)
 *Description courte : Conception complète d'une architecture de données, incluant la migration, la création de tables optimisées et la mise en place de vues complexes.*
 > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Projet_Base_Donn-es_SQL)
 >
@@ -79,7 +79,7 @@ Il a également fallu créer le joueur comme un objet déplaçable et gérer l'a
 
 ---
 
-### 🧮 Projet "Calculatrice" intelligente par Arbre d'Analyse Syntaxique en C
+### 🧮 Projet "Calculatrice" intelligente par Arbre d'Analyse Syntaxique en C (2025)
 *Description courte : Implémentation d'un parseur capable de résoudre des expressions mathématiques complexes en utilisant des structures d'arbres syntaxiques.*
 > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/ProjetC_CalculatriceParAnalyseSyntaxique)
 >
@@ -103,7 +103,7 @@ Il a également fallu créer le joueur comme un objet déplaçable et gérer l'a
 </details>
 
 ---
- ### 🐍 Solveur et Créateur de Labyrinthe Python 
+ ### 🐍 Solveur et Créateur de Labyrinthe Python (2024)
  *Description courte : Création d'une interface graphique Turtle dédiée à la génération et à la résolution de labyrinthes via des algorithmes d'exploration autonome.*
 > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Solveur_Createur_Labyrinthe_Python)
 > 
