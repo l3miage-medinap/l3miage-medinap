@@ -18,7 +18,7 @@ Notre jeux de données était constitué de différentes valeurs et variables
 
 Après plusieurs étapes de nettoyage et de nivellements de certaines valeurs (en suivant à chaque fois les règles précises de l'ACP).
 
-Nous avons obtenu le cercle des corrélations suivant, qui illustre les corrélations entre les variables en fonction de l'angle formé par leurs vecteurs
+Nous avons obtenu le cercle des corrélations suivant, qui illustre les corrélations entre les variables en fonction de l'angle formé par leurs vecteurs                                                                                                                                                                                                     
 <img width="698" height="582" alt="Capture d&#39;écran 2026-11-16 173012" src="https://github.com/user-attachments/assets/203854f8-f234-4391-90ef-d63ce7ffcada" />
 (La couleur (cos2) illustre la fiabilité de la représentation sur l'axe) 
 
