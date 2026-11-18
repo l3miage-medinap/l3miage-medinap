@@ -6,7 +6,7 @@ Voici une description d'une partie de mes différents projets informatiques 🎇
 
 ### 📊 Projet Data : Analyse Exploratoire et Segmentation des Communes (ACP)
 *Description courte : Analyse de données (EDA & ACP) avec R : utilisation de l'analyse en composante principale pour établir des corrélations entre des variables dans un grand jeux de données*
-> **Lien vers le repo :** [Pour Très bientot...](https://github.com/l3miage-medinap/Analyse_Data_ACP_Rstudio)
+> **Lien vers le repo :** (https://github.com/l3miage-medinap/Analyse_Data_ACP_Rstudio)
 >
 -> -> -> Cliquez ci-dessous pour quelques détails et images du projet <- <- <-
 
