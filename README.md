@@ -17,16 +17,16 @@ Notre jeux de données était constitué de différentes valeurs et variables
 <img width="1386" height="218" alt="Capture d&#39;écran 2026-11-16 173615" src="https://github.com/user-attachments/assets/022ede04-c04f-4684-8ad3-d2c599ee8ff0" />
 
 Après plusieurs étapes de nettoyage et de nivellements de certaines valeurs (en suivant à chaque fois les règles précises de l'ACP).
-
-Nous avons obtenu le cercle des corrélations suivant, qui illustre les corrélations entre les variables en fonction de l'angle formé par leurs vecteurs                                                                                                                                                                                                     
+Nous avons obtenu le cercle des corrélations suivant, qui illustre les corrélations entre les variables en fonction de l'angle formé par leurs vecteurs.                                                                                                                                                                                                 
 <img width="698" height="582" alt="Capture d&#39;écran 2026-11-16 173012" src="https://github.com/user-attachments/assets/203854f8-f234-4391-90ef-d63ce7ffcada" />
+
 (La couleur (cos2) illustre la fiabilité de la représentation sur l'axe) 
 
 Nous avons ensuite établis le graphique symétrique suivant, issu de l'Analyse Factorielle des Correspondances (AFC), il illustre les associations entre les types de communes et les modes de transport privilégiés.
 <img width="834" height="646" alt="Capture d&#39;écran 2026-11-16 173137" src="https://github.com/user-attachments/assets/1e49eaef-6e90-4771-9cd4-b4cf4cded0de" />
 (Une forte proximité indique une forte association des deux variables)
 
-Nous avons également réalisés beaucoup d'autres analyses complémentaires (notamment une classification hiérarchique). Si cela vous intéresse: voir le repository associé (cliquer "voir le code" ci dessus)
+Nous avons également réalisés beaucoup d'autres analyses complémentaires (notamment une classification hiérarchique). Si cela vous intéresse: voir le repository associé (cliquer "voir le code" ci dessus).
 </details>
 
 ---
