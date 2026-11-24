@@ -45,8 +45,11 @@ Nous avons également réalisés beaucoup d'autres analyses complémentaires (no
   Après avoir récupéré les données à l'aide de différents inserts et renommages de tables, j'ai achevé la création de la table et mis en place mes différentes vues (demandées par le client) : <img width="1895" height="1011" alt="Capture d’écran 2026-05-08 163504" src="https://github.com/user-attachments/assets/670fdd79-4093-4f5b-b780-373a469accbf" />
 
 
----
+
 </details>
+
+
+---
 
 ### 🎮 Projet Jeu C# & Sérialisation XML (2025)
 *Description courte : Développement d'un moteur de jeu avec un système de sauvegarde complexe via la sérialisation et la désérialisation de fichiers XML.*
