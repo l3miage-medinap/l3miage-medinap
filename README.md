@@ -30,6 +30,24 @@ Nous avons également réalisés beaucoup d'autres analyses complémentaires (no
 
 ---
 
+### 🗄️ Projet Base de Données SQL (2026)
+*Description courte : Conception complète d'une architecture de données, incluant la migration, la création de tables optimisées et la mise en place de vues complexes.*
+> **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Projet_Base_Donn-es_SQL)
+>
+-> -> -> Cliquez ci-dessous pour quelques détails et images du projet <- <- <-
+<details>
+  Lors de ce projet, j'ai eu à récupérer une base de données incomplète et incohérente. J'ai pour cela utilisé DB Browser (SQLite) qui est une application de gestion de base de données et de requêtes SQL. 
+
+  Pour commencer, j'ai dû refaire la conception initiale de ma base en repensant les logiques métiers et les besoins des utilisateurs, notamment en redéfinissant ce qui est admissible comme format dans la base (domaine) ainsi que les différentes contraintes : <img width="1917" height="925" alt="Capture d’écran 2026-05-08 162224" src="https://github.com/user-attachments/assets/9c748729-e189-4605-a7ed-809774b877a8" />
+
+  Ensuite, une fois les contraintes comprises, j'ai créé une nouvelle base destinée à accueillir ces données de façon cohérente : <img width="1917" height="1100" alt="Capture d’écran 2026-05-08 163526" src="https://github.com/user-attachments/assets/43b1e6dd-edf7-4465-a542-530054c58bd3" />
+
+  Après avoir récupéré les données à l'aide de différents inserts et renommages de tables, j'ai achevé la création de la table et mis en place mes différentes vues (demandées par le client) : <img width="1895" height="1011" alt="Capture d’écran 2026-05-08 163504" src="https://github.com/user-attachments/assets/670fdd79-4093-4f5b-b780-373a469accbf" />
+
+
+---
+</details>
+
 ### 🎮 Projet Jeu C# & Sérialisation XML (2025)
 *Description courte : Développement d'un moteur de jeu avec un système de sauvegarde complexe via la sérialisation et la désérialisation de fichiers XML.*
 > **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Jeu_Csharp_Xml)
@@ -57,23 +75,6 @@ Pour réaliser notre souhait d'avoir différents donjons, nous avons créé la c
 Une de nos grandes difficultés fut de créer des actions dans les donjons et de faire attendre l'exécution pour éviter qu'il n'exécute tout à la chaîne sans s'arrêter. <img width="1915" height="1132" alt="Capture d’écran 2026-05-08 154113" src="https://github.com/user-attachments/assets/2d294d07-ac32-41ef-8687-abd2e308967b" />
 
 Il a également fallu créer le joueur comme un objet déplaçable et gérer l'affichage d'une texture "en plus" de la carte de départ, ainsi que différents soucis de complexité que vous pouvez découvrir, si vous le souhaitez, en lisant le document explicatif du repository en question !
-
-</details>
-
----
-### 🗄️ Projet Base de Données SQL (2025)
-*Description courte : Conception complète d'une architecture de données, incluant la migration, la création de tables optimisées et la mise en place de vues complexes.*
-> **Lien vers le repo :** [Voir le code ici](https://github.com/l3miage-medinap/Projet_Base_Donn-es_SQL)
->
--> -> -> Cliquez ci-dessous pour quelques détails et images du projet <- <- <-
-<details>
-  Lors de ce projet, j'ai eu à récupérer une base de données incomplète et incohérente. J'ai pour cela utilisé DB Browser (SQLite) qui est une application de gestion de base de données et de requêtes SQL. 
-
-  Pour commencer, j'ai dû refaire la conception initiale de ma base en repensant les logiques métiers et les besoins des utilisateurs, notamment en redéfinissant ce qui est admissible comme format dans la base (domaine) ainsi que les différentes contraintes : <img width="1917" height="925" alt="Capture d’écran 2026-05-08 162224" src="https://github.com/user-attachments/assets/9c748729-e189-4605-a7ed-809774b877a8" />
-
-  Ensuite, une fois les contraintes comprises, j'ai créé une nouvelle base destinée à accueillir ces données de façon cohérente : <img width="1917" height="1100" alt="Capture d’écran 2026-05-08 163526" src="https://github.com/user-attachments/assets/43b1e6dd-edf7-4465-a542-530054c58bd3" />
-
-  Après avoir récupéré les données à l'aide de différents inserts et renommages de tables, j'ai achevé la création de la table et mis en place mes différentes vues (demandées par le client) : <img width="1895" height="1011" alt="Capture d’écran 2026-05-08 163504" src="https://github.com/user-attachments/assets/670fdd79-4093-4f5b-b780-373a469accbf" />
 
 </details>
 
